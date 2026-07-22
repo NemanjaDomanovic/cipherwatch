@@ -1,0 +1,14 @@
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Mac OS
+.DS_Store
+
+# NIKAD ne commit-uj prave API kljuceve!
+application-secrets.properties
+.env
